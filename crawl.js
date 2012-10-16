@@ -14,10 +14,11 @@ var fs = require("fs"),
     redisdump = require("redis-dump"),
     redis = require("redis").createClient();
 
+// go easy on ead websites
 http.globalAgent.maxSockets = 2;
 
 function main() {
-  async.series([crawl, dump, exit]);
+  async.series([crawl, exit]);
 }
 
 /**
@@ -59,13 +60,6 @@ function crawl(opts) {
 
   });
 
-}
-
-function dump() {
-  redisdump({format: "json"}, function(err, result) {
-    console.log(err);
-    fs.writeFile("dump.json", result);
-  });
 }
 
 function exit() {
