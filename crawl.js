@@ -1,7 +1,5 @@
 /**
- * uses google to try to find EAD XML documents out on the 
- * World Wild Web. Uses redis to keep track of results and 
- * serializes them to dump.json when finished.
+ * Uses google to try to find EAD XML documents out on the World Wild Web.
  */
 
 var fs = require("fs"),
