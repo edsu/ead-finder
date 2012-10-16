@@ -1,0 +1,13 @@
+{
+    "name": "ead-finder",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+      "async": "latest",
+      "google": "latest",
+      "redis": "latest",
+      "request": "latest",
+      "libxmljs": "latest",
+      "redis-dump": "latest"
+    }
+}

@@ -1,0 +1,431 @@
+{
+  "www2.hsp.org": {
+    "type": "set", 
+    "value": [
+      "http://www2.hsp.org/collections/manuscripts/b/bartram0036.xml", 
+      "http://www2.hsp.org/collections/manuscripts/f/Fales1580.XML", 
+      "http://www2.hsp.org/collections/manuscripts/w/Wallace685.XML"
+    ]
+  }, 
+  "virtualcardcatalog.filsonhistorical.org": {
+    "type": "set", 
+    "value": [
+      "http://virtualcardcatalog.filsonhistorical.org/ead/wallfamily_003z3FA.xml"
+    ]
+  }, 
+  "ead.lib.virginia.edu": {
+    "type": "set", 
+    "value": [
+      "http://ead.lib.virginia.edu/vivaead/published/gmu/vifgm00016.xml", 
+      "http://ead.lib.virginia.edu/vivaead/published/uva-law/viul00003.xml", 
+      "http://ead.lib.virginia.edu/vivaead/published/uva-law/viul00047.xml", 
+      "http://ead.lib.virginia.edu/vivaead/published/uva-sc/viu01144.xml", 
+      "http://ead.lib.virginia.edu/vivaead/published/wm/viw00110.xml"
+    ]
+  }, 
+  "www.archives.ncdcr.gov": {
+    "type": "set", 
+    "value": [
+      "http://www.archives.ncdcr.gov/ead/eadxml/mil_civ_war.xml", 
+      "http://www.archives.ncdcr.gov/ead/eadxml/org_society_north_carolina_archivists.xml", 
+      "http://www.archives.ncdcr.gov/ead/eadxml/pc_barbour_ruth_peeling.xml", 
+      "http://www.archives.ncdcr.gov/ead/eadxml/pc_boon_james.xml", 
+      "http://www.archives.ncdcr.gov/ead/eadxml/pc_devereux_john.xml", 
+      "http://www.archives.ncdcr.gov/ead/eadxml/pc_dwight_peggy.xml", 
+      "http://www.archives.ncdcr.gov/ead/eadxml/pc_forbes_stephen_h.xml", 
+      "http://www.archives.ncdcr.gov/ead/eadxml/pc_lovin_nick.xml", 
+      "http://www.archives.ncdcr.gov/ead/eadxml/phc_armfield_joseph_franklin.xml", 
+      "http://www.archives.ncdcr.gov/ead/eadxml/phc_condev_travelinfodiv.xml", 
+      "http://www.archives.ncdcr.gov/ead/eadxml/phc_divforestresources_infoedphotos.xml", 
+      "http://www.archives.ncdcr.gov/ead/eadxml/phc_divmarinefisheries_slides.xml", 
+      "http://www.archives.ncdcr.gov/ead/eadxml/phc_stokes_county_stereograph.xml", 
+      "http://www.archives.ncdcr.gov/ead/eadxml/sa_employsecurity_unemployment_insurance_division.xml", 
+      "http://www.archives.ncdcr.gov/western_archives/eadxml/pc_blair_roberta.xml", 
+      "http://www.archives.ncdcr.gov/western_archives/eadxml/pc_jackson_tr.xml", 
+      "http://www.archives.ncdcr.gov/western_archives/eadxml/pc_krenek_ernst.xml", 
+      "http://www.archives.ncdcr.gov/western_archives/eadxml/pc_mangold_frederick_r.xml", 
+      "http://www.archives.ncdcr.gov/western_archives/eadxml/pc_sly_allan.xml", 
+      "http://www.archives.ncdcr.gov/western_archives/eadxml/pc_weston_norman_B.xml"
+    ]
+  }, 
+  "www.lib.lsu.edu": {
+    "type": "set", 
+    "value": [
+      "http://www.lib.lsu.edu/special/findaid/breaux/ead.xml"
+    ]
+  }, 
+  "www.hsls.pitt.edu": {
+    "type": "set", 
+    "value": [
+      "http://www.hsls.pitt.edu/www/rarebooks/ead/ms12.xml"
+    ]
+  }, 
+  "www.gwu.edu": {
+    "type": "set", 
+    "value": [
+      "http://www.gwu.edu/gelman/spec/ead/ms2046.xml", 
+      "http://www.gwu.edu/gelman/spec/ead/ms2058.xml"
+    ]
+  }, 
+  "library.syr.edu": {
+    "type": "set", 
+    "value": [
+      "http://library.syr.edu/digital/guides/ead/aaa_template.xml"
+    ]
+  }, 
+  "files.lib.byu.edu": {
+    "type": "set", 
+    "value": [
+      "http://files.lib.byu.edu/ead/XML/EAD%20UT%20Copper%20MSS%203295.xml", 
+      "http://files.lib.byu.edu/ead/XML/MSS1281.xml", 
+      "http://files.lib.byu.edu/ead/XML/MSS1608.xml", 
+      "http://files.lib.byu.edu/ead/XML/MSS2019.xml", 
+      "http://files.lib.byu.edu/ead/XML/MSS2049.xml", 
+      "http://files.lib.byu.edu/ead/XML/MSSP16.xml", 
+      "http://files.lib.byu.edu/ead/XML/MSSP24.xml", 
+      "http://files.lib.byu.edu/ead/XML/UA1020.xml", 
+      "http://files.lib.byu.edu/ead/XML/UA1093.xml"
+    ]
+  }, 
+  "www.lib.utexas.edu": {
+    "type": "set", 
+    "value": [
+      "http://www.lib.utexas.edu/taro/ricewrc/00245.xml", 
+      "http://www.lib.utexas.edu/taro/tslac/30052.xml", 
+      "http://www.lib.utexas.edu/taro/tslac/30157.xml", 
+      "http://www.lib.utexas.edu/taro/tslac/50040.xml", 
+      "http://www.lib.utexas.edu/taro/tslac/70033.xml", 
+      "http://www.lib.utexas.edu/taro/tslac/70034.xml", 
+      "http://www.lib.utexas.edu/taro/tslac/70036.xml", 
+      "http://www.lib.utexas.edu/taro/tslac/70037.xml", 
+      "http://www.lib.utexas.edu/taro/tslac/70038.xml", 
+      "http://www.lib.utexas.edu/taro/tslac/70039.xml", 
+      "http://www.lib.utexas.edu/taro/tslac/90015.xml", 
+      "http://www.lib.utexas.edu/taro/utaaa/00030.xml", 
+      "http://www.lib.utexas.edu/taro/utaaa/00047.xml", 
+      "http://www.lib.utexas.edu/taro/utaaa/00106.xml", 
+      "http://www.lib.utexas.edu/taro/utcah/00048.xml", 
+      "http://www.lib.utexas.edu/taro/utcah/00051.xml", 
+      "http://www.lib.utexas.edu/taro/utcah/00088.xml", 
+      "http://www.lib.utexas.edu/taro/utcah/00090/00090p2.xml", 
+      "http://www.lib.utexas.edu/taro/utcah/00096.xml", 
+      "http://www.lib.utexas.edu/taro/utcah/00127/00127p10.xml", 
+      "http://www.lib.utexas.edu/taro/utcah/00158.xml", 
+      "http://www.lib.utexas.edu/taro/utcah/00159.xml", 
+      "http://www.lib.utexas.edu/taro/utcah/00181.xml", 
+      "http://www.lib.utexas.edu/taro/utcah/00255.xml", 
+      "http://www.lib.utexas.edu/taro/utcah/00261.xml", 
+      "http://www.lib.utexas.edu/taro/utcah/00373.xml", 
+      "http://www.lib.utexas.edu/taro/utcah/00408.xml", 
+      "http://www.lib.utexas.edu/taro/utcah/00548.xml", 
+      "http://www.lib.utexas.edu/taro/utlac/00032/00032p1.xml", 
+      "http://www.lib.utexas.edu/taro/utlac/00067/00067p3.xml", 
+      "http://www.lib.utexas.edu/taro/utlac/00068/00068p3.xml", 
+      "http://www.lib.utexas.edu/taro/utsa/00119/00119p2.xml", 
+      "http://www.lib.utexas.edu/taro/utsa/00306.xml", 
+      "http://www.lib.utexas.edu/taro/utsa/00309.xml", 
+      "http://www.lib.utexas.edu/taro/utsa/00310.xml", 
+      "http://www.lib.utexas.edu/taro/utsa/00311.xml", 
+      "http://www.lib.utexas.edu/taro/utsa/00312.xml", 
+      "http://www.lib.utexas.edu/taro/utsa/00313.xml"
+    ]
+  }, 
+  "thatcampwiki.pbworks.com": {
+    "type": "set", 
+    "value": [
+      "http://thatcampwiki.pbworks.com/f/beinecke.bourbel.xml"
+    ]
+  }, 
+  "ead.natlib.govt.nz": {
+    "type": "set", 
+    "value": [
+      "http://ead.natlib.govt.nz/kilbirnie/xml/OHInt-0403-2.xml", 
+      "http://ead.natlib.govt.nz/kilbirnie/xml/OHInt-0403-5.xml"
+    ]
+  }, 
+  "openlib.org": {
+    "type": "set", 
+    "value": [
+      "http://openlib.org/home/krichel/courses/lis512/external_doc/ead/example.ead.xml"
+    ]
+  }, 
+  "www.swarthmore.edu": {
+    "type": "set", 
+    "value": [
+      "http://www.swarthmore.edu/Library/friends/ead/4001abfr.xml", 
+      "http://www.swarthmore.edu/Library/friends/ead/4002alam.xml", 
+      "http://www.swarthmore.edu/Library/friends/ead/4004affe.xml", 
+      "http://www.swarthmore.edu/Library/friends/ead/4006afrc.xml", 
+      "http://www.swarthmore.edu/Library/friends/ead/4021frbo.xml", 
+      "http://www.swarthmore.edu/Library/friends/ead/4025frge.xml", 
+      "http://www.swarthmore.edu/Library/friends/ead/4035frne.xml", 
+      "http://www.swarthmore.edu/Library/friends/ead/4039suph.xml", 
+      "http://www.swarthmore.edu/Library/friends/ead/4045hoin.xml", 
+      "http://www.swarthmore.edu/Library/friends/ead/4049maac.xml", 
+      "http://www.swarthmore.edu/Library/friends/ead/4080frci.xml", 
+      "http://www.swarthmore.edu/Library/friends/ead/4083harn.xml", 
+      "http://www.swarthmore.edu/Library/friends/ead/4087frwo.xml", 
+      "http://www.swarthmore.edu/Library/friends/ead/4091flgc.xml", 
+      "http://www.swarthmore.edu/Library/friends/ead/4100ceso.xml", 
+      "http://www.swarthmore.edu/Library/friends/ead/5032cori1.xml", 
+      "http://www.swarthmore.edu/Library/friends/ead/5035dubo.xml", 
+      "http://www.swarthmore.edu/Library/friends/ead/5057hast.xml", 
+      "http://www.swarthmore.edu/Library/friends/ead/5069hull.xml", 
+      "http://www.swarthmore.edu/Library/friends/ead/5152tufa.xml", 
+      "http://www.swarthmore.edu/Library/friends/ead/5173cofa.xml", 
+      "http://www.swarthmore.edu/Library/friends/ead/5176bebr.xml", 
+      "http://www.swarthmore.edu/Library/friends/ead/5260mwch.xml", 
+      "http://www.swarthmore.edu/Library/friends/ead/5280russ.xml", 
+      "http://www.swarthmore.edu/Library/friends/ead/6d11thfr.xml", 
+      "http://www.swarthmore.edu/Library/friends/ead/Mott.xml", 
+      "http://www.swarthmore.edu/library/friends/ead/4010beho.xml", 
+      "http://www.swarthmore.edu/library/friends/ead/4038suam.xml", 
+      "http://www.swarthmore.edu/library/friends/ead/4046inaf.xml", 
+      "http://www.swarthmore.edu/library/friends/ead/4071frso.xml", 
+      "http://www.swarthmore.edu/library/friends/ead/4114weri.xml", 
+      "http://www.swarthmore.edu/library/friends/ead/5025cadb.xml", 
+      "http://www.swarthmore.edu/library/friends/ead/5043forb.xml", 
+      "http://www.swarthmore.edu/library/friends/ead/5045fofa.xml", 
+      "http://www.swarthmore.edu/library/friends/ead/5073chje.xml", 
+      "http://www.swarthmore.edu/library/friends/ead/5076jecl.xml", 
+      "http://www.swarthmore.edu/library/friends/ead/5087lefu.xml", 
+      "http://www.swarthmore.edu/library/friends/ead/5098math.xml", 
+      "http://www.swarthmore.edu/library/friends/ead/5101jeme.xml", 
+      "http://www.swarthmore.edu/library/friends/ead/5106awmo.xml", 
+      "http://www.swarthmore.edu/library/friends/ead/5108ogde.xml", 
+      "http://www.swarthmore.edu/library/friends/ead/5150with.xml", 
+      "http://www.swarthmore.edu/library/friends/ead/5151trun.xml", 
+      "http://www.swarthmore.edu/library/friends/ead/5153unfa.xml", 
+      "http://www.swarthmore.edu/library/friends/ead/5167majo.xml", 
+      "http://www.swarthmore.edu/library/friends/ead/5177bifa.xml", 
+      "http://www.swarthmore.edu/library/friends/ead/5183jann.xml", 
+      "http://www.swarthmore.edu/library/friends/ead/5188shfa.xml", 
+      "http://www.swarthmore.edu/library/friends/ead/5190joev.xml", 
+      "http://www.swarthmore.edu/library/friends/ead/5195camu.xml", 
+      "http://www.swarthmore.edu/library/friends/ead/5201dotu.xml", 
+      "http://www.swarthmore.edu/library/friends/ead/5207pabr.xml", 
+      "http://www.swarthmore.edu/library/friends/ead/5240johu.xml", 
+      "http://www.swarthmore.edu/library/friends/ead/5252brfa.xml", 
+      "http://www.swarthmore.edu/library/friends/ead/5256elya.xml", 
+      "http://www.swarthmore.edu/library/friends/ead/5268elwa.xml", 
+      "http://www.swarthmore.edu/library/friends/ead/5271lila.xml", 
+      "http://www.swarthmore.edu/library/friends/ead/5277littl.xml", 
+      "http://www.swarthmore.edu/library/friends/ead/5278bcfp.xml", 
+      "http://www.swarthmore.edu/library/friends/ead/6Q001solit.xml", 
+      "http://www.swarthmore.edu/library/friends/ead/6R304gewe.xml", 
+      "http://www.swarthmore.edu/library/friends/ead/6S001scott.xml"
+    ]
+  }, 
+  "www.library.umass.edu": {
+    "type": "set", 
+    "value": [
+      "http://www.library.umass.edu/spcoll/ead/mufs035.xml", 
+      "http://www.library.umass.edu/spcoll/ead/mums051.xml", 
+      "http://www.library.umass.edu/spcoll/ead/mums062.xml", 
+      "http://www.library.umass.edu/spcoll/ead/mums064.xml", 
+      "http://www.library.umass.edu/spcoll/ead/mums093.xml", 
+      "http://www.library.umass.edu/spcoll/ead/mums102.xml", 
+      "http://www.library.umass.edu/spcoll/ead/mums103.xml", 
+      "http://www.library.umass.edu/spcoll/ead/mums134.xml", 
+      "http://www.library.umass.edu/spcoll/ead/mums141.xml", 
+      "http://www.library.umass.edu/spcoll/ead/mums156.xml", 
+      "http://www.library.umass.edu/spcoll/ead/mums175.xml", 
+      "http://www.library.umass.edu/spcoll/ead/mums176.xml", 
+      "http://www.library.umass.edu/spcoll/ead/mums244.xml", 
+      "http://www.library.umass.edu/spcoll/ead/mums282.xml", 
+      "http://www.library.umass.edu/spcoll/ead/mums293.xml", 
+      "http://www.library.umass.edu/spcoll/ead/mums303.xml", 
+      "http://www.library.umass.edu/spcoll/ead/mums304.xml", 
+      "http://www.library.umass.edu/spcoll/ead/mums320.xml", 
+      "http://www.library.umass.edu/spcoll/ead/mums325.xml", 
+      "http://www.library.umass.edu/spcoll/ead/mums404.xml", 
+      "http://www.library.umass.edu/spcoll/ead/mums429.xml", 
+      "http://www.library.umass.edu/spcoll/ead/mums433.xml", 
+      "http://www.library.umass.edu/spcoll/ead/mums438.xml", 
+      "http://www.library.umass.edu/spcoll/ead/muph015.xml", 
+      "http://www.library.umass.edu/spcoll/ead/murg3_1_b76.xml"
+    ]
+  }, 
+  "svn.lib.umd.edu": {
+    "type": "set", 
+    "value": [
+      "https://svn.lib.umd.edu/fedora/tags/archivesum.pre-fedora/bak/text/MdU.ead.histms.0081.xml", 
+      "https://svn.lib.umd.edu/fedora/tags/archivesum.pre-fedora/bak/text/MdU.ead.histms.0085.xml", 
+      "https://svn.lib.umd.edu/fedora/tags/archivesum.pre-fedora/bak/text/MdU.ead.histms.0165.xml"
+    ]
+  }, 
+  "www2.scc.rutgers.edu": {
+    "type": "set", 
+    "value": [
+      "http://www2.scc.rutgers.edu/ead/uarchives/bruyn.xml"
+    ]
+  }, 
+  "archivopedia.com": {
+    "type": "set", 
+    "value": [
+      "http://archivopedia.com/wiki/3SAMPLE_RSS_EAD2.xml"
+    ]
+  }, 
+  "www.library.unlv.edu": {
+    "type": "set", 
+    "value": [
+      "http://www.library.unlv.edu/speccol/ead/1994-48_Dondero.xml", 
+      "http://www.library.unlv.edu/speccol/ead/T-123_Rusco.xml"
+    ]
+  }, 
+  "libwebspace.library.cmu.edu:4430": {
+    "type": "set", 
+    "value": [
+      "https://libwebspace.library.cmu.edu:4430/Research/Archives/UnivArchives/ead/Athletics.xml", 
+      "https://libwebspace.library.cmu.edu:4430/Research/Archives/UnivArchives/ead/Bertram.xml", 
+      "https://libwebspace.library.cmu.edu:4430/Research/Archives/UnivArchives/ead/CharlesJGeissCollection.xml", 
+      "https://libwebspace.library.cmu.edu:4430/Research/Archives/UnivArchives/ead/McCorduck.xml", 
+      "https://libwebspace.library.cmu.edu:4430/Research/Archives/UnivArchives/ead/MellonCollegeOfScience.xml", 
+      "https://libwebspace.library.cmu.edu:4430/Research/Archives/UnivArchives/ead/RobertPGreiner.xml", 
+      "https://libwebspace.library.cmu.edu:4430/Research/Archives/UnivArchives/ead/Steinmetz.xml", 
+      "https://libwebspace.library.cmu.edu:4430/Research/Archives/UnivArchives/ead/WalterBlenko.xml", 
+      "https://libwebspace.library.cmu.edu:4430/Research/Archives/UnivArchives/ead/WilliamKolakoskiCollection.xml", 
+      "https://libwebspace.library.cmu.edu:4430/Research/Archives/UnivArchives/ead/kimberly.xml", 
+      "https://libwebspace.library.cmu.edu:4430/Research/Archives/ead/generated/newell.xml"
+    ]
+  }, 
+  "acumen.lib.ua.edu": {
+    "type": "set", 
+    "value": [
+      "http://acumen.lib.ua.edu/u0003_0000580.ead.xml", 
+      "http://acumen.lib.ua.edu/u0003_0001523.ead.xml", 
+      "http://acumen.lib.ua.edu/u0003_0001609.ead.xml", 
+      "http://acumen.lib.ua.edu/u0003_0002682.ead.xml"
+    ]
+  }, 
+  "wakespace.lib.wfu.edu": {
+    "type": "set", 
+    "value": [
+      "http://wakespace.lib.wfu.edu/jspui/bitstream/10339/27792/1/MS215-ead.xml", 
+      "http://wakespace.lib.wfu.edu/jspui/bitstream/10339/27801/1/MS334-ead.xml", 
+      "http://wakespace.lib.wfu.edu/jspui/bitstream/10339/27814/1/MS311-ead.xml", 
+      "http://wakespace.lib.wfu.edu/jspui/bitstream/10339/27832/1/RG22.2-ead.xml", 
+      "http://wakespace.lib.wfu.edu/jspui/bitstream/10339/27898/1/RG3.12-ead.xml", 
+      "http://wakespace.lib.wfu.edu/jspui/bitstream/10339/27910/1/MS331-ead.xml", 
+      "http://wakespace.lib.wfu.edu/jspui/bitstream/10339/27911/1/MS583-ead.xml", 
+      "http://wakespace.lib.wfu.edu/jspui/bitstream/10339/28054/1/MS175-ead.xml"
+    ]
+  }, 
+  "special.lib.umn.edu": {
+    "type": "set", 
+    "value": [
+      "http://special.lib.umn.edu/findaid/xml/uarc00747.xml"
+    ]
+  }, 
+  "ead.library.jhu.edu": {
+    "type": "set", 
+    "value": [
+      "http://ead.library.jhu.edu/ms001.xml", 
+      "http://ead.library.jhu.edu/ms006.xml", 
+      "http://ead.library.jhu.edu/ms007.xml", 
+      "http://ead.library.jhu.edu/ms071.xml", 
+      "http://ead.library.jhu.edu/ms129.xml", 
+      "http://ead.library.jhu.edu/ms281.xml", 
+      "http://ead.library.jhu.edu/ms313.xml", 
+      "http://ead.library.jhu.edu/ms500.xml", 
+      "http://ead.library.jhu.edu/rg04-140.xml"
+    ]
+  }, 
+  "www.aip.org": {
+    "type": "set", 
+    "value": [
+      "http://www.aip.org/history/ead/19990061.xml", 
+      "http://www.aip.org/history/ead/19990072.xml", 
+      "http://www.aip.org/history/ead/19990074.xml"
+    ]
+  }, 
+  "findingaids.library.utc.edu": {
+    "type": "set", 
+    "value": [
+      "http://findingaids.library.utc.edu/ead/Wiley.xml", 
+      "http://findingaids.library.utc.edu/ead/Witt.xml"
+    ]
+  }, 
+  "www.csc.lsu.edu": {
+    "type": "set", 
+    "value": [
+      "http://www.csc.lsu.edu/~wuyj/Teaching/7410/sp09/XML_EAD/greeninventory_revised.xml"
+    ]
+  }, 
+  "org.elon.edu": {
+    "type": "set", 
+    "value": [
+      "http://org.elon.edu/library/ead/msscoll023jamesokelly.xml"
+    ]
+  }, 
+  "rmc.library.cornell.edu": {
+    "type": "set", 
+    "value": [
+      "http://rmc.library.cornell.edu/EAD/xml/dlxs/KCL05129.xml", 
+      "http://rmc.library.cornell.edu/EAD/xml/dlxs/KCL05217.xml", 
+      "http://rmc.library.cornell.edu/EAD/xml/dlxs/KCL05377.xml", 
+      "http://rmc.library.cornell.edu/EAD/xml/dlxs/KCL05619.xml", 
+      "http://rmc.library.cornell.edu/EAD/xml/dlxs/RMA00796.xml", 
+      "http://rmc.library.cornell.edu/EAD/xml/dlxs/RMA00976.xml", 
+      "http://rmc.library.cornell.edu/EAD/xml/dlxs/RMA01832.xml", 
+      "http://rmc.library.cornell.edu/EAD/xml/dlxs/RMA02876.xml", 
+      "http://rmc.library.cornell.edu/EAD/xml/dlxs/RMA02891.xml", 
+      "http://rmc.library.cornell.edu/EAD/xml/dlxs/RMA02894.xml", 
+      "http://rmc.library.cornell.edu/EAD/xml/dlxs/RMA03158.xml", 
+      "http://rmc.library.cornell.edu/EAD/xml/dlxs/RMA03161.xml", 
+      "http://rmc.library.cornell.edu/EAD/xml/dlxs/RMA03296.xml", 
+      "http://rmc.library.cornell.edu/EAD/xml/dlxs/RMM00222.xml", 
+      "http://rmc.library.cornell.edu/EAD/xml/dlxs/RMM02033.xml", 
+      "http://rmc.library.cornell.edu/EAD/xml/dlxs/RMM02087.xml", 
+      "http://rmc.library.cornell.edu/EAD/xml/dlxs/RMM02516.xml", 
+      "http://rmc.library.cornell.edu/EAD/xml/dlxs/RMM02681.xml", 
+      "http://rmc.library.cornell.edu/EAD/xml/dlxs/RMM02735.xml", 
+      "http://rmc.library.cornell.edu/EAD/xml/dlxs/RMM02770.xml", 
+      "http://rmc.library.cornell.edu/EAD/xml/dlxs/RMM03169.xml", 
+      "http://rmc.library.cornell.edu/EAD/xml/dlxs/RMM03214.xml", 
+      "http://rmc.library.cornell.edu/EAD/xml/dlxs/RMM03308.xml", 
+      "http://rmc.library.cornell.edu/EAD/xml/dlxs/RMM04411.xml", 
+      "http://rmc.library.cornell.edu/EAD/xml/dlxs/RMM04612.xml", 
+      "http://rmc.library.cornell.edu/EAD/xml/dlxs/RMM04617.xml", 
+      "http://rmc.library.cornell.edu/EAD/xml/dlxs/RMM04620.xml", 
+      "http://rmc.library.cornell.edu/EAD/xml/dlxs/RMM04681.xml", 
+      "http://rmc.library.cornell.edu/EAD/xml/dlxs/RMM06563.xml", 
+      "http://rmc.library.cornell.edu/EAD/xml/dlxs/RMM07575.xml", 
+      "http://rmc.library.cornell.edu/EAD/xml/dlxs/RMM08001.xml", 
+      "http://rmc.library.cornell.edu/EAD/xml/dlxs/RMM09087.xml", 
+      "http://rmc.library.cornell.edu/ead/xml/dlxs/RMA01885.xml"
+    ]
+  }, 
+  "digital.lib.umd.edu": {
+    "type": "set", 
+    "value": [
+      "http://digital.lib.umd.edu/archivesum/bak/text/MdU.ead.npba.0030.xml", 
+      "http://digital.lib.umd.edu/archivesum/bak/text/MdU.ead.scpa.0012.xml", 
+      "http://digital.lib.umd.edu/archivesum/bak/text/MdU.ead.scpa.0016.xml"
+    ]
+  }, 
+  "archives.lib.panam.edu": {
+    "type": "set", 
+    "value": [
+      "http://archives.lib.panam.edu/ead/other/seale-carl.xml"
+    ]
+  }, 
+  "jira.nyu.edu": {
+    "type": "set", 
+    "value": [
+      "https://jira.nyu.edu/jira/secure/attachment/10738/MC104.04.EAD.xml"
+    ]
+  }, 
+  "www.lib.unc.edu": {
+    "type": "set", 
+    "value": [
+      "http://www.lib.unc.edu/savine/invalid/EAD/savine_EAD.xml"
+    ]
+  }, 
+  "www.obhistorycenter.ncdcr.gov": {
+    "type": "set", 
+    "value": [
+      "http://www.obhistorycenter.ncdcr.gov/ead/obhc_lifesaving_stations_outer_banks.xml"
+    ]
+  }
+}
