@@ -4,12 +4,11 @@
 
 var fs = require("fs"),
     url = require("url"),
-    async = require("async"),
     http = require("http"),
+    async = require("async"),
     google = require("google"),
     request = require("request"),
     libxmljs = require("libxmljs"),
-    redisdump = require("redis-dump"),
     redis = require("redis").createClient();
 
 // go easy on ead websites
