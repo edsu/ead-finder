@@ -5,7 +5,7 @@ ead-finder is a small Node utility that looks for EAD XML that has been
 indexed by Google and [ArchiveGrid](http://beta.worldcat.org/archivegrid/).
 The results are kept in a Redis database, and can be dumped with a small
 python program. You can find a recent-ish dump of the database in the 
-dump.json file.
+[dump.json](https://raw.github.com/edsu/ead-finder/master/dump.json) file.
 
 Run It
 ------
