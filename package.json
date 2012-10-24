@@ -4,10 +4,13 @@
     "private": true,
     "dependencies": {
       "async": "latest",
+      "cheerio": "latest",
       "google": "latest",
       "redis": "latest",
       "request": "latest",
       "libxmljs": "latest",
-      "redis-dump": "latest"
+      "redis-dump": "latest",
+      "limiter": "latest",
+      "underscore": "latest"
     }
 }
