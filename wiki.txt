@@ -1,0 +1,219 @@
+
+{| class="wikitable sortable"
+|- 
+! Name 
+! Website URL 
+! width="200px" | EAD Example
+|-
+| 
+|http://www.library.umass.edu
+| http://www.library.umass.edu/spcoll/ead/mums176.xml
+|-
+| 
+|http://www.csc.lsu.edu
+| http://www.csc.lsu.edu/~wuyj/Teaching/7410/sp09/XML_EAD/greeninventory_revised.xml
+|-
+| 
+|http://ead.library.jhu.edu
+| http://ead.library.jhu.edu/ms060.xml
+|-
+| 
+|http://titania.folger.edu
+| http://titania.folger.edu/Findingaids/dfostrozzi.xml
+|-
+| 
+|http://ead.natlib.govt.nz
+| http://ead.natlib.govt.nz/kilbirnie/xml/OHInt-0403-6.xml
+|-
+| 
+|http://library.victoria.ac.nz
+| http://library.victoria.ac.nz/files/findingaids/nzsac/ead/nzsac.xml
+|-
+| 
+|http://libcontent1.lib.ua.edu
+| http://libcontent1.lib.ua.edu/digital/test/secondTest/secondTest.ead.xml
+|-
+| 
+|http://library.ucf.edu
+| http://library.ucf.edu/SpecialCollections/FindingAids/ClarkResearchPapers.xml
+|-
+| 
+|http://www.hsls.pitt.edu
+| http://www.hsls.pitt.edu/www/rarebooks/ead/ms12.xml
+|-
+| 
+|http://openlib.org
+| http://openlib.org/home/krichel/courses/lis512/external_doc/ead/example.ead.xml
+|-
+| 400 Bad Request
+|http://libwebspace.library.cmu.edu:4430
+| https://libwebspace.library.cmu.edu:4430/Research/Archives/UnivArchives/ead/CharlesJGeissCollection.xml
+|-
+| 404 - File or directory not found.
+|http://library.uncg.edu
+| http://library.uncg.edu/info/depts/scua/collections/manuscripts/ead/Mss004.xml
+|-
+| Archives
+|http://archives.lib.panam.edu
+| http://archives.lib.panam.edu/ead/other/seale-carl.xml
+|-
+| Archives Resources
+|http://archives.state.ut.us
+| http://archives.state.ut.us/cgi-bin/eadseriesget.cgi?WEBINPUT_BIBLGRPC_KEY=24437
+|-
+| Archivopedia
+|http://archivopedia.com
+| http://archivopedia.com/wiki/3SAMPLE_RSS_EAD2.xml
+|-
+| Digital Collections @ the University of Maryland
+|http://digital.lib.umd.edu
+| http://digital.lib.umd.edu/archivesum/bak/text/MdU.ead.npba.0030.xml
+|-
+| Division of Rare and Manuscript Collections
+|http://rmc.library.cornell.edu
+| http://rmc.library.cornell.edu/EAD/xml/dlxs/RMM04602.xml
+|-
+| Elon University
+|http://www.elon.edu
+| http://www.elon.edu/docs/e-web/library/ead/20062008MenWomenSoccer.xml
+|-
+| Elon University - Organization WebSites
+|http://org.elon.edu
+| http://org.elon.edu/library/ead/msscoll023jamesokelly.xml
+|-
+| Harold B. Lee Library
+|http://files.lib.byu.edu
+| http://files.lib.byu.edu/ead/XML/MSS2294.xml
+|-
+| Hello
+|http://svn.lib.umd.edu
+| https://svn.lib.umd.edu/fedora/tags/archivesum.pre-fedora/bak/text/MdU.ead.histms.0081.xml
+|-
+| Historical Society of Pennsylvania
+|http://www2.hsp.org
+| http://www2.hsp.org/collections/manuscripts/b/bartram0036.xml
+|-
+| Home - Archives Hub
+|http://archiveshub.ac.uk
+| http://archiveshub.ac.uk/data/gb247msgen706-713.xml
+|-
+| Home | LTS | Brandeis University
+|http://lts.brandeis.edu
+| http://lts.brandeis.edu/research/archives-speccoll/findingguides/xml/einstein_albert.xml
+|-
+| Index of /
+|http://ead.georgiahistory.com
+| http://ead.georgiahistory.com/ms_1803.xml
+|-
+| Jumping to Libraries Website
+|http://library.nevada.edu
+| http://library.nevada.edu/speccol/ead/1987-97_Minsky.xml
+|-
+| LSU Libraries
+|http://www.lib.lsu.edu
+| http://www.lib.lsu.edu/special/findaid/breaux/ead.xml
+|-
+| MNHS.ORG | Minnesota Historical Society
+|http://www.mnhs.org
+| http://www.mnhs.org/library/findaids/P2543.xml
+|-
+| New York University
+|http://jira.nyu.edu
+| https://jira.nyu.edu/jira/secure/attachment/10738/MC104.04.EAD.xml
+|-
+| Notre Dame Archives
+|http://archives.nd.edu
+| http://archives.nd.edu/findaids/ead/xml/cis.xml
+|-
+| Outer Banks History Center Home Page
+|http://www.obhistorycenter.ncdcr.gov
+| http://www.obhistorycenter.ncdcr.gov/ead/obhc_lifesaving_stations_outer_banks.xml
+|-
+| Penn Libraries
+|http://www.library.upenn.edu
+| http://www.library.upenn.edu/collections/rbm/ead/cajs/ARC%20MS%2036.xml
+|-
+| Phillips Memorial Library at Providence College
+|http://library.providence.edu
+| http://library.providence.edu/spcol/fa/xml/rppc_jlmoore.xml
+|-
+| State Archives of North Carolina
+|http://www.archives.ncdcr.gov
+| http://www.archives.ncdcr.gov/FindingAids/ead/eadxml/phc_hodges_luther_h_slides.xml
+|-
+| Swarthmore College Home
+|http://www.swarthmore.edu
+| http://www.swarthmore.edu/library/friends/ead/5167majo.xml
+|-
+| Syracuse University Library
+|http://library.syr.edu
+| http://library.syr.edu/digital/guides/ead/aaa_template.xml
+|-
+| THATCamp Wiki / FrontPage
+|http://thatcampwiki.pbworks.com
+| http://thatcampwiki.pbworks.com/f/beinecke.bourbel.xml
+|-
+| Test Page for the Apache HTTP Server on Red Hat Enterprise Linux
+|http://trilogy.brynmawr.edu
+| http://trilogy.brynmawr.edu/speccoll/bym/fredemm.xml
+|-
+| The American Institute of Physics -- Physics Publications and Resources
+|http://www.aip.org
+| http://www.aip.org/history/ead/19990074.xml
+|-
+| The George Washington University
+|http://www.gwu.edu
+| http://www.gwu.edu/gelman/spec/ead/ms2201.xml
+|-
+| UTC Special Collections Finding Aid Index
+|http://findingaids.library.utc.edu
+| http://findingaids.library.utc.edu/ead/Witt.xml
+|-
+| University of North Carolina at Chapel Hill Libraries - Home
+|http://www.lib.unc.edu
+| http://www.lib.unc.edu/savine/invalid/EAD/savine_EAD.xml
+|-
+| University of Texas Libraries
+|http://www.lib.utexas.edu
+| http://www.lib.utexas.edu/taro/utcah/00832.xml
+|-
+| Utah State History
+|http://history.utah.gov
+| http://history.utah.gov/findaids/B00129/B0129ff.xml
+|-
+| Virtual Card Catalog Website
+|http://virtualcardcatalog.filsonhistorical.org
+| http://virtualcardcatalog.filsonhistorical.org/ead/wallfamily_003z3FA.xml
+|-
+| WakeSpace - A digital archive of Wake Forest University: WakeSpace Faculty Scholarship
+|http://wakespace.lib.wfu.edu
+| http://wakespace.lib.wfu.edu/jspui/bitstream/10339/28108/1/MS339-ead.xml
+|-
+| Welcome Visitors | University of Minnesota Libraries
+|http://special.lib.umn.edu
+| http://special.lib.umn.edu/findaid/xml/uarc00261.xml
+|-
+| Welcome to University Libraries | UNLV University Libraries
+|http://www.library.unlv.edu
+| https://www.library.unlv.edu/speccol/ead/T26_FortMohaveSchool.xml
+|-
+| Welcome to Wesleyan University — Middletown, Connecticut
+|http://www.wesleyan.edu
+| http://www.wesleyan.edu/library/schome/FAs/mu2000-27.xml
+|-
+| Western Connecticut State University Archives and Special Collections | Documenting WestConn and its surrounding area
+|http://archives.library.wcsu.edu
+| http://archives.library.wcsu.edu/findingaids/academicPrograms.xml
+|-
+| XTF: Search Form
+|http://ead.lib.virginia.edu
+| http://ead.lib.virginia.edu/vivaead/published/odu/vino00011.xml
+|-
+| acumen | Search
+|http://acumen.lib.ua.edu
+| http://acumen.lib.ua.edu/u0003_0000580.ead.xml
+|-
+| iBistro
+|http://dplopac.detroitpubliclibrary.org
+| http://dplopac.detroitpubliclibrary.org/WebCat_Images/English/Other/Findingaids/web/bhc02157.xml
+|}
