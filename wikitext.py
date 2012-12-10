@@ -14,20 +14,21 @@ hostnames.sort(lambda a, b: cmp(data[a]['title'],
 print """
 {| class="wikitable sortable"
 |- 
-! Name 
-! Website URL 
-! width="200px" | EAD Example"""
+! Organization
+! width="200px" | Examples"""
 
 for hostname in hostnames:
     title = data[hostname]["title"] or ""
     url = "http://" + hostname 
+    examples = []
 
+    if data[hostname].has_key('html'):
+        examples.append("[%s html]" % data[hostname]['html'][0])
     if data[hostname].has_key('xml'):
-        xml_url = data[hostname]['xml'][0]
-    else:
-        continue
+        examples.append("[%s xml]" % data[hostname]['xml'][0])
 
-    line = "|-\n| %s\n|%s\n| %s" % (title, url, xml_url)
+    examples = ' '.join(examples)
+    line = "|-\n| [%s %s]\n| %s" % (url, title, examples)
     print line.encode("utf-8")
                                
 print "|}"

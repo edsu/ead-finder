@@ -1,219 +1,606 @@
 
 {| class="wikitable sortable"
 |- 
-! Name 
-! Website URL 
-! width="200px" | EAD Example
+! Organization
+! width="200px" | Examples
 |-
-| 
-|http://www.library.umass.edu
-| http://www.library.umass.edu/spcoll/ead/mums176.xml
+| [http://www.library.umass.edu ]
+| [http://www.library.umass.edu/spcoll/ead/mums176.xml xml]
 |-
-| 
-|http://www.csc.lsu.edu
-| http://www.csc.lsu.edu/~wuyj/Teaching/7410/sp09/XML_EAD/greeninventory_revised.xml
+| [http://www.csc.lsu.edu ]
+| [http://www.csc.lsu.edu/~wuyj/Teaching/7410/sp09/XML_EAD/greeninventory_revised.xml xml]
 |-
-| 
-|http://ead.library.jhu.edu
-| http://ead.library.jhu.edu/ms060.xml
+| [http://dlib.nyu.edu ]
+| [http://dlib.nyu.edu/findingaids/html/nyhs/low/ html]
 |-
-| 
-|http://titania.folger.edu
-| http://titania.folger.edu/Findingaids/dfostrozzi.xml
+| [http://svn.kollide.net ]
+| [http://svn.kollide.net/wsvn/ead/trunk/EAD/nbproject/private/private.xml?op=blame&peg=77 html]
 |-
-| 
-|http://ead.natlib.govt.nz
-| http://ead.natlib.govt.nz/kilbirnie/xml/OHInt-0403-6.xml
+| [http://ead.library.jhu.edu ]
+| [http://ead.library.jhu.edu/ms060.xml xml]
 |-
-| 
-|http://library.victoria.ac.nz
-| http://library.victoria.ac.nz/files/findingaids/nzsac/ead/nzsac.xml
+| [http://eadventure.googlecode.com ]
+| [https://eadventure.googlecode.com/hg-history/cf951dc55b9b75311aa32d74d278d4538ba4e86b/core/engine-gdx-html/pom.xml html]
 |-
-| 
-|http://libcontent1.lib.ua.edu
-| http://libcontent1.lib.ua.edu/digital/test/secondTest/secondTest.ead.xml
+| [http://www.kshs.org ]
+| [http://www.kshs.org/dart/units/view/42308 html]
 |-
-| 
-|http://library.ucf.edu
-| http://library.ucf.edu/SpecialCollections/FindingAids/ClarkResearchPapers.xml
+| [http://titania.folger.edu ]
+| [http://titania.folger.edu/Findingaids/dfostrozzi.xml xml]
 |-
-| 
-|http://www.hsls.pitt.edu
-| http://www.hsls.pitt.edu/www/rarebooks/ead/ms12.xml
+| [http://images4.indianahistory.org ]
+| [http://images4.indianahistory.org/cdm4/browse.php?CISOROOT=/p0303 html]
 |-
-| 
-|http://openlib.org
-| http://openlib.org/home/krichel/courses/lis512/external_doc/ead/example.ead.xml
+| [http://ead.natlib.govt.nz ]
+| [http://ead.natlib.govt.nz/kilbirnie/xml/OHInt-0403-6.xml xml]
 |-
-| 400 Bad Request
-|http://libwebspace.library.cmu.edu:4430
-| https://libwebspace.library.cmu.edu:4430/Research/Archives/UnivArchives/ead/CharlesJGeissCollection.xml
+| [http://library.victoria.ac.nz ]
+| [http://library.victoria.ac.nz/files/findingaids/nzsac/ead/nzsac.xml xml]
 |-
-| 404 - File or directory not found.
-|http://library.uncg.edu
-| http://library.uncg.edu/info/depts/scua/collections/manuscripts/ead/Mss004.xml
+| [http://libcontent1.lib.ua.edu ]
+| [http://libcontent1.lib.ua.edu/digital/test/secondTest/secondTest.ead.xml xml]
 |-
-| Archives
-|http://archives.lib.panam.edu
-| http://archives.lib.panam.edu/ead/other/seale-carl.xml
+| [http://library.ucf.edu ]
+| [http://library.ucf.edu/SpecialCollections/FindingAids/ClarkResearchPapers.xml xml]
 |-
-| Archives Resources
-|http://archives.state.ut.us
-| http://archives.state.ut.us/cgi-bin/eadseriesget.cgi?WEBINPUT_BIBLGRPC_KEY=24437
+| [http://archives.auraria.edu ]
+| [http://archives.auraria.edu/garrison/garrison.html html]
 |-
-| Archivopedia
-|http://archivopedia.com
-| http://archivopedia.com/wiki/3SAMPLE_RSS_EAD2.xml
+| [http://bleys.emich.edu ]
+| [http://bleys.emich.edu/archives/findingaids/html/Delta_Sigma_Phi_Fraternity_collection.html html]
 |-
-| Digital Collections @ the University of Maryland
-|http://digital.lib.umd.edu
-| http://digital.lib.umd.edu/archivesum/bak/text/MdU.ead.npba.0030.xml
+| [http://www.hsls.pitt.edu ]
+| [http://www.hsls.pitt.edu/www/rarebooks/ead/ms12.xml xml]
 |-
-| Division of Rare and Manuscript Collections
-|http://rmc.library.cornell.edu
-| http://rmc.library.cornell.edu/EAD/xml/dlxs/RMM04602.xml
+| [http://findingaids.library.emory.edu ]
+| [http://findingaids.library.emory.edu/documents/dixon23/ html]
 |-
-| Elon University
-|http://www.elon.edu
-| http://www.elon.edu/docs/e-web/library/ead/20062008MenWomenSoccer.xml
+| [http://openlib.org ]
+| [http://openlib.org/home/krichel/courses/lis512/external_doc/ead/example.ead.xml xml]
 |-
-| Elon University - Organization WebSites
-|http://org.elon.edu
-| http://org.elon.edu/library/ead/msscoll023jamesokelly.xml
+| [http://www.azarchivesonline.org ]
+| [http://www.azarchivesonline.org/xtf/view?docId=ead/uoa/UAMS042.xml&chunk.id=0&toc.depth=1&toc.id=0&brand=default html]
 |-
-| Harold B. Lee Library
-|http://files.lib.byu.edu
-| http://files.lib.byu.edu/ead/XML/MSS2294.xml
+| [http://russelldoc.galib.uga.edu ]
+| [http://russelldoc.galib.uga.edu/russell/view?docId=ead/friended_III.xml html]
 |-
-| Hello
-|http://svn.lib.umd.edu
-| https://svn.lib.umd.edu/fedora/tags/archivesum.pre-fedora/bak/text/MdU.ead.histms.0081.xml
+| [http://digitool.fcla.edu  DigiTool main menu]
+| [http://digitool.fcla.edu/R/?func=collections-result&collection_id=2575&local_base=GEN01-FSU01 html]
 |-
-| Historical Society of Pennsylvania
-|http://www2.hsp.org
-| http://www2.hsp.org/collections/manuscripts/b/bartram0036.xml
+| [http://sylvester.jtsa.edu:8881  DigiTool main menu]
+| [http://sylvester.jtsa.edu:8881/ html]
 |-
-| Home - Archives Hub
-|http://archiveshub.ac.uk
-| http://archiveshub.ac.uk/data/gb247msgen706-713.xml
+| [http://libwebspace.library.cmu.edu:4430 400 Bad Request]
+| [https://libwebspace.library.cmu.edu:4430/Research/Archives/UnivArchives/ead/CharlesJGeissCollection.xml xml]
 |-
-| Home | LTS | Brandeis University
-|http://lts.brandeis.edu
-| http://lts.brandeis.edu/research/archives-speccoll/findingguides/xml/einstein_albert.xml
+| [http://subversion.rrz.uni-koeln.de 403 Forbidden]
+| [https://subversion.rrz.uni-koeln.de/trac/eXist-A/changeset/1397/trunk/my/XRX/www/mom/app/fond/widget/fond.widget.xml html]
 |-
-| Index of /
-|http://ead.georgiahistory.com
-| http://ead.georgiahistory.com/ms_1803.xml
+| [http://digicoll.library.wisc.edu 404 - Error: 404]
+| [http://digicoll.library.wisc.edu/cgi/f/findaid/findaid-idx?c=wiarchives;view=reslist;subview=standard;didno=uw-mil-uwmmss0111 html]
 |-
-| Jumping to Libraries Website
-|http://library.nevada.edu
-| http://library.nevada.edu/speccol/ead/1987-97_Minsky.xml
+| [http://library.uncg.edu 404 - File or directory not found.]
+| [http://library.uncg.edu/depts/archives/chancellors/blackwell.html html] [http://library.uncg.edu/info/depts/scua/collections/manuscripts/ead/Mss004.xml xml]
 |-
-| LSU Libraries
-|http://www.lib.lsu.edu
-| http://www.lib.lsu.edu/special/findaid/breaux/ead.xml
+| [http://www.chemheritage.org 404 - File or directory not found.]
+| [http://www.chemheritage.org/exhibits/ex-oral-detail.asp?ID=13&Numb=3 html]
 |-
-| MNHS.ORG | Minnesota Historical Society
-|http://www.mnhs.org
-| http://www.mnhs.org/library/findaids/P2543.xml
+| [http://www.bsu.edu 404 - File or directory not found.]
+| [http://www.bsu.edu/libraries/collections/archives/findingaids/MSS105.pdf html]
 |-
-| New York University
-|http://jira.nyu.edu
-| https://jira.nyu.edu/jira/secure/attachment/10738/MC104.04.EAD.xml
+| [http://mms.newberry.org 404 - File or directory not found.]
+| [http://mms.newberry.org/html/Willardf.html html]
 |-
-| Notre Dame Archives
-|http://archives.nd.edu
-| http://archives.nd.edu/findaids/ead/xml/cis.xml
+| [http://oculus.nlm.nih.gov 404 Not Found]
+| [http://oculus.nlm.nih.gov/cgi/f/findaid/findaid-idx?c=nlmfindaid;id=navbarbrowselink;cginame=findaid-idx;cc=nlmfindaid;view=reslist;subview=standard;didno=mountin436 html]
 |-
-| Outer Banks History Center Home Page
-|http://www.obhistorycenter.ncdcr.gov
-| http://www.obhistorycenter.ncdcr.gov/ead/obhc_lifesaving_stations_outer_banks.xml
+| [http://www.afs.org AFS Intercultural Programs | Connecting Lives, Sharing Cultures ]
+| [http://www.afs.org/archon/index.php?p=collections/controlcard&id=62 html]
 |-
-| Penn Libraries
-|http://www.library.upenn.edu
-| http://www.library.upenn.edu/collections/rbm/ead/cajs/ARC%20MS%2036.xml
+| [http://ahc.galileo.usg.edu Abbie M. Brooks diaries and church invitation]
+| [http://ahc.galileo.usg.edu/ahc/view?docId=ead/ahc.MSS39F-ead.xml;query=;brand=default html]
 |-
-| Phillips Memorial Library at Providence College
-|http://library.providence.edu
-| http://library.providence.edu/spcol/fa/xml/rppc_jlmoore.xml
+| [http://www.assembla.com Accelerate Development with Agile Teams and Continuous Delivery | Assembla]
+| [https://www.assembla.com/code/ProjetkowaniaOprogramowania1/subversion/nodes/eaD/D8FDDD3DD721.xml?rev=166 html]
 |-
-| State Archives of North Carolina
-|http://www.archives.ncdcr.gov
-| http://www.archives.ncdcr.gov/FindingAids/ead/eadxml/phc_hodges_luther_h_slides.xml
+| [http://www2.scc.rutgers.edu Access forbidden!]
+| [http://www2.scc.rutgers.edu/ead/uarchives/alexanderf.html html]
 |-
-| Swarthmore College Home
-|http://www.swarthmore.edu
-| http://www.swarthmore.edu/library/friends/ead/5167majo.xml
+| [http://s3.amazonaws.com Amazon Simple Storage Service (Amazon S3)]
+| [http://s3.amazonaws.com/authorstream/content/194291_633790529273132500.xml html]
 |-
-| Syracuse University Library
-|http://library.syr.edu
-| http://library.syr.edu/digital/guides/ead/aaa_template.xml
+| [http://americanjewisharchives.org American Jewish Archives]
+| [http://americanjewisharchives.org/BellaRosenbaum.htm html]
 |-
-| THATCamp Wiki / FrontPage
-|http://thatcampwiki.pbworks.com
-| http://thatcampwiki.pbworks.com/f/beinecke.bourbel.xml
+| [http://lcweb2.loc.gov American Memory from the Library of Congress - Home Page]
+| [http://lcweb2.loc.gov/diglib/lcwa/mrva0012.0017/default.html html]
 |-
-| Test Page for the Apache HTTP Server on Red Hat Enterprise Linux
-|http://trilogy.brynmawr.edu
-| http://trilogy.brynmawr.edu/speccoll/bym/fredemm.xml
+| [http://www.amphilsoc.org American Philosophical Society | Promoting useful knowledge]
+| [http://www.amphilsoc.org/mole/view?docId=ead/Mss.504.W15-ead.xml;query=;brand=default html]
 |-
-| The American Institute of Physics -- Physics Publications and Resources
-|http://www.aip.org
-| http://www.aip.org/history/ead/19990074.xml
+| [http://reed.dur.ac.uk Apache HTTP Server Test Page powered by CentOS]
+| [http://reed.dur.ac.uk/xtf/view?docId=ead/pol/richmond.xml html]
 |-
-| The George Washington University
-|http://www.gwu.edu
-| http://www.gwu.edu/gelman/spec/ead/ms2201.xml
+| [http://archives2.getty.edu:8082 Apache Tomcat]
+| [http://archives2.getty.edu:8082/xtf/view?docId=ead/920043/920043.xml;query=;brand=default html]
 |-
-| UTC Special Collections Finding Aid Index
-|http://findingaids.library.utc.edu
-| http://findingaids.library.utc.edu/ead/Witt.xml
+| [http://drs.library.yale.edu:8083 Apache Tomcat/5.5.26]
+| [http://drs.library.yale.edu:8083/HLTransformer/HLTransServlet?stylename=yul.ead2002.xhtml.xsl&pid=divinity:090&clear-stylesheet-cache=yes html]
 |-
-| University of North Carolina at Chapel Hill Libraries - Home
-|http://www.lib.unc.edu
-| http://www.lib.unc.edu/savine/invalid/EAD/savine_EAD.xml
+| [http://archives.lib.panam.edu Archives]
+| [http://archives.lib.panam.edu/ead/other/seale-carl.xml xml]
 |-
-| University of Texas Libraries
-|http://www.lib.utexas.edu
-| http://www.lib.utexas.edu/taro/utcah/00832.xml
+| [http://archives.state.ut.us Archives Resources]
+| [http://archives.state.ut.us/cgi-bin/eadseriesget.cgi?WEBINPUT_BIBLGRPC_KEY=24437 xml]
 |-
-| Utah State History
-|http://history.utah.gov
-| http://history.utah.gov/findaids/B00129/B0129ff.xml
+| [http://archives.etsu.edu Archives of Appalachia]
+| [http://archives.etsu.edu/?p=collections/controlcard&id=429 html]
 |-
-| Virtual Card Catalog Website
-|http://virtualcardcatalog.filsonhistorical.org
-| http://virtualcardcatalog.filsonhistorical.org/ead/wallfamily_003z3FA.xml
+| [http://archivopedia.com Archivopedia]
+| [http://archivopedia.com/wiki/3SAMPLE_RSS_EAD2.xml xml]
 |-
-| WakeSpace - A digital archive of Wake Forest University: WakeSpace Faculty Scholarship
-|http://wakespace.lib.wfu.edu
-| http://wakespace.lib.wfu.edu/jspui/bitstream/10339/28108/1/MS339-ead.xml
+| [http://www.atakteknoloji.com Atak Teknoloji | Domain Tescili | Web Tasarým | Web Hosting]
+| [http://www.atakteknoloji.com/Documents/Logs/25.02.2008.xml html]
 |-
-| Welcome Visitors | University of Minnesota Libraries
-|http://special.lib.umn.edu
-| http://special.lib.umn.edu/findaid/xml/uarc00261.xml
+| [http://audiofarm.org Audiofarm.org - The social network for audio]
+| [http://audiofarm.org/jimbeck81/podcast.xml html]
 |-
-| Welcome to University Libraries | UNLV University Libraries
-|http://www.library.unlv.edu
-| https://www.library.unlv.edu/speccol/ead/T26_FortMohaveSchool.xml
+| [http://archon.bpl.org Boston Public Library Rare Books and Manuscripts Department]
+| [http://archon.bpl.org/?p=collections/controlcard&id=19 html]
 |-
-| Welcome to Wesleyan University — Middletown, Connecticut
-|http://www.wesleyan.edu
-| http://www.wesleyan.edu/library/schome/FAs/mu2000-27.xml
+| [http://archon.brandeis.edu Brandeis University]
+| [http://archon.brandeis.edu/index.php?p=collections/controlcard&id=45 html]
 |-
-| Western Connecticut State University Archives and Special Collections | Documenting WestConn and its surrounding area
-|http://archives.library.wcsu.edu
-| http://archives.library.wcsu.edu/findingaids/academicPrograms.xml
+| [http://dl.lib.brown.edu Brown University Library, Center for Digital Initiatives]
+| [http://dl.lib.brown.edu/riamco/render.php?eadid=US-RPB-ms2012.001&view=title html]
 |-
-| XTF: Search Form
-|http://ead.lib.virginia.edu
-| http://ead.lib.virginia.edu/vivaead/published/odu/vino00011.xml
+| [http://xml.ascc.net C. Implementation]
+| [http://xml.ascc.net/en/utf-8/dc-faq.xml html]
 |-
-| acumen | Search
-|http://acumen.lib.ua.edu
-| http://acumen.lib.ua.edu/u0003_0000580.ead.xml
+| [http://content.lib.umt.edu CONTENTdm Title]
+| [http://content.lib.umt.edu/spcoll/pamphlets/palestine_and_israel.html html]
 |-
-| iBistro
-|http://dplopac.detroitpubliclibrary.org
-| http://dplopac.detroitpubliclibrary.org/WebCat_Images/English/Other/Findingaids/web/bhc02157.xml
+| [http://content.cdlib.org California Digital Library]
+| [http://content.cdlib.org/ark:/13030/tf0h4n984j/ html]
+|-
+| [http://www.catolicavirtual.br Católica Virtual - Educação a distância - EAD]
+| [http://www.catolicavirtual.br/sitemap.xml html]
+|-
+| [http://findingaids.cjh.org Center for Jewish History: Digital Collections]
+| [http://findingaids.cjh.org/?pID=482872 html]
+|-
+| [http://cvs.cheshire3.org Cheshire3 Information Framework]
+| [http://cvs.cheshire3.org/repos/contrib/cheshire3/dbs/ead/zeerex_oai.xml html]
+|-
+| [http://www.chestercohistorical.org Chester County Historical Society]
+| [http://www.chestercohistorical.org/library/wp-content/uploads/2008/12/431751p1.pdf html]
+|-
+| [http://libweb1.lib.buffalo.edu:8080 Darwin D. Martin-Frank Lloyd Wright Collection, Oral Histories, 1971-1980 at the State University of New York at Buffalo. University Archives]
+| [http://libweb1.lib.buffalo.edu:8080/findingaids/view?docId=ead//archives/ubar_ms0022_93.xml html]
+|-
+| [http://digital.denverlibrary.org Denver Public Library Western History/Genealogy Digital Collections]
+| [http://digital.denverlibrary.org/cdm/error/errno/9 html]
+|-
+| [http://digital.lib.umd.edu Digital Collections @ the University of Maryland]
+| [http://digital.lib.umd.edu/archivesum/bak/text/MdU.ead.npba.0030.xml xml]
+|-
+| [http://digital.nls.uk Digital Gallery - National Library of Scotland]
+| [http://digital.nls.uk/dcn8/8343/83430606.8.xml html]
+|-
+| [http://www.dclibrary.org District of Columbia Public Library | Check it out!]
+| [http://www.dclibrary.org/washingtoniana/ohrc/gwu9-oh.html html]
+|-
+| [http://rmc.library.cornell.edu Division of Rare and Manuscript Collections]
+| [http://rmc.library.cornell.edu/404.html html] [http://rmc.library.cornell.edu/EAD/xml/dlxs/RMM04602.xml xml]
+|-
+| [http://power.networksolutions.com Domain Names, Web Hosting and Online Marketing Services | Network Solutions]
+| [http://power.networksolutions.com/index.html html]
+|-
+| [http://library.vicu.utoronto.ca E.J. Pratt Library]
+| [http://library.vicu.utoronto.ca/collections/special_collections/f63_e_toppings/index.html html]
+|-
+| [http://ead.ohiolink.edu EAD - OhioLINK Finding Aid Repository]
+| [http://ead.ohiolink.edu/xtf-ead/view?docId=ead/OUN0620.xml&query=&brand=default html]
+|-
+| [http://ead-lb.org Educational Association for Development]
+| [http://ead-lb.org/index.xml html]
+|-
+| [http://www.elon.edu Elon University]
+| [http://www.elon.edu/docs/e-web/library/ead/20062008MenWomenSoccer.xml xml]
+|-
+| [http://org.elon.edu Elon University - Organization WebSites]
+| [http://org.elon.edu/library/ead/msscoll023jamesokelly.xml xml]
+|-
+| [http://www.sbhla.org Error]
+| [http://www.sbhla.org/guide.asp?lookup=R&entry=255 html]
+|-
+| [http://www.statelib.lib.in.us Error</title></head><body><head><title>Directory Listing Denied]
+| [http://www.statelib.lib.in.us/www/indiana/manuscripts/S83.htm html]
+|-
+| [http://www.library.umaine.edu Fogler Library, the University of Maine]
+| [http://www.library.umaine.edu/speccoll/FindingAids/LoweRachelpapers.htm html]
+|-
+| [http://libwww.freelibrary.org Free Library of Philadelphia]
+| [http://libwww.freelibrary.org/medievalman/ html]
+|-
+| [http://web.uflib.ufl.edu George A. Smathers Libraries]
+| [http://web.uflib.ufl.edu/spec/archome/SeriesP6.htm html]
+|-
+| [http://www.library.gatech.edu Georgia Tech Library]
+| [http://www.library.gatech.edu/archives/finding-aids/view?docId=ead/MF047-ead/MF047-ead.xml html]
+|-
+| [http://shakespeare.folger.edu Guide to the Bacon-Townshend collection, 1550-1640. Folger MS.L.d.1-1036]
+| [http://shakespeare.folger.edu/other/html/dfobacon.html html]
+|-
+| [http://files.lib.byu.edu Harold B. Lee Library]
+| [http://files.lib.byu.edu/ead/XML/MSS2294.xml xml]
+|-
+| [http://svn.lib.umd.edu Hello]
+| [https://svn.lib.umd.edu/fedora/tags/archivesum.pre-fedora/bak/text/MdU.ead.histms.0081.xml xml]
+|-
+| [http://www2.hsp.org Historical Society of Pennsylvania]
+| [http://www2.hsp.org/collections/manuscripts/s/StrahanAm162.html html] [http://www2.hsp.org/collections/manuscripts/b/bartram0036.xml xml]
+|-
+| [http://archiveshub.ac.uk Home - Archives Hub]
+| [http://archiveshub.ac.uk/data/gb247msgen706-713.xml xml]
+|-
+| [http://library.osu.edu Home - Ohio State University Libraries]
+| [http://library.osu.edu/find/collections/ohio-congressional-archives/milton-a-wolf-papers/ html]
+|-
+| [http://libraries.ucsd.edu Home - The Library]
+| [http://libraries.ucsd.edu/speccoll/testing/html/rss2104a.html html]
+|-
+| [http://sfpl.org Home :: San Francisco Public Library]
+| [http://sfpl.org/index.php?pg=2000184301 html]
+|-
+| [http://www.nysl.nysed.gov Home page: New York State Library]
+| [http://www.nysl.nysed.gov/msscfa/sc23168.htm html]
+|-
+| [http://lts.brandeis.edu Home | LTS | Brandeis University]
+| [http://lts.brandeis.edu/research/archives-speccoll/findingguides/xml/einstein_albert.xml xml]
+|-
+| [http://www.library.northwestern.edu Home | Northwestern University Library | www.library.northwestern.edu]
+| [http://www.library.northwestern.edu/libraries-collections/evanston-campus/university-archives html]
+|-
+| [http://archives.msu.edu Home | University Archives  | Michigan State University]
+| [http://archives.msu.edu/findaid/204.html html]
+|-
+| [http://www.lib.utah.edu HomeÂ -Â Marriott LibraryÂ -Â The University of Utah]
+| [http://www.lib.utah.edu/collections/special-collections/mss/accn1642/1642.html html]
+|-
+| [http://library.law.howard.edu Howard University School of Law - Law Library]
+| [http://library.law.howard.edu/archives/indritz.htm html]
+|-
+| [http://www.ihrc.umn.edu Immigration History Research Center : University of Minnesota]
+| [http://www.ihrc.umn.edu/research/guide/inventories/GENwatson.htm html]
+|-
+| [http://www.nursing.pantherconnect.com Index of /]
+| [http://www.nursing.pantherconnect.com/retention/semester1/fall2011/ppt/HeadFaceNeckEx2F11/files/search/searchtext.xml html]
+|-
+| [http://ead.georgiahistory.com Index of /]
+| [http://ead.georgiahistory.com/ms_1803.xml xml]
+|-
+| [http://specialcollections.tulane.edu J. Mitchell Pilcher papers, 1890s-1972 | Louisiana Research Collection]
+| [http://specialcollections.tulane.edu/archon/?p=collections/controlcard&id=460 html]
+|-
+| [http://www.jhsgh.org Jewish Historical Society of Greater Hartford]
+| [http://www.jhsgh.org/zionism.htm html]
+|-
+| [http://library.nevada.edu Jumping to Libraries Website]
+| [http://library.nevada.edu/speccol/ead/1987-97_Minsky.xml xml]
+|-
+| [http://www.lacityview.org LA Cityview 35]
+| [http://www.lacityview.org/rss/itavideo81.xml?rss=rss%2Fitavideo81.xml html]
+|-
+| [http://www.lib.lsu.edu LSU Libraries]
+| [http://www.lib.lsu.edu/special/findaid/breaux/ead.xml xml]
+|-
+| [http://library.leeds.ac.uk Leeds University Library Homepage - Telephone: +44 (0) 113 343 5663]
+| [http://library.leeds.ac.uk/liddle-collection html]
+|-
+| [http://lib.colostate.edu Libraries | Colorado State University]
+| [http://lib.colostate.edu/archives/findingaids/manuscripts/mjac.html html]
+|-
+| [http://lib.mnsu.edu Library &#8211; Minnesota State University, Mankato]
+| [http://lib.mnsu.edu/archives/fa/smhc/smhc1231.html html]
+|-
+| [http://findingaids.loc.gov Library of Congress Finding Aids: Search/Browse]
+| [http://findingaids.loc.gov/db/search/xq/searchMfer02.xq?_id=loc.mss.eadmss.ms003048&_faSection=overview&_faSubsection=did&_dmdid= html]
+|-
+| [http://www.loc.gov Library of Congress Home]
+| [http://www.loc.gov/rr/askalib/ask-perform2.html html]
+|-
+| [http://image.lva.virginia.gov Library of Virginia - Image Server]
+| [http://image.lva.virginia.gov/ html]
+|-
+| [http://stream.loe.org Living on Earth: PRI's Environmental News Magazine]
+| [http://stream.loe.org/images/GulfCoralsSS/soundslide.xml?cache=56067 html]
+|-
+| [http://www.antennastore.co.nz M2M Antenna Store - Glyn High-Tech Distribution]
+| [http://www.antennastore.co.nz/sitemap.xml html]
+|-
+| [http://www.mlgtraffic.net MLGTraffic - Trains for Traffic Screensaver]
+| [http://www.mlgtraffic.net/SNCF_E_AD_U2.xml html]
+|-
+| [http://quod.lib.umich.edu MLibrary Digital Collections]
+| [http://quod.lib.umich.edu/cgi/f/findaid/findaid-idx?type=simple&c=bhl&view=text&subview=outline&id=umich-bhl-861040 html]
+|-
+| [http://www.mnhs.org MNHS.ORG | Minnesota Historical Society]
+| [http://www.mnhs.org/library/findaids/P2543.xml xml]
+|-
+| [http://www.indiana.edu Maury mss.]
+| [http://www.indiana.edu/~liblilly/lilly/mss/index.php?p=mauryinv html]
+|-
+| [http://library.mcmaster.ca McMaster University Library, Hamilton, Ontario, Canada]
+| [http://library.mcmaster.ca/maps/ww1/home.htm html]
+|-
+| [http://www.mtholyoke.edu Mount Holyoke College]
+| [https://www.mtholyoke.edu/offices/library/arch/col/ms0716r.htm html]
+|-
+| [http://143.88.66.76 Murray, James F., Papers, 1968-1977 | UWF University Archives and West Florida History Center]
+| [http://143.88.66.76/archon/index.php?p=collections/controlcard&id=175 html]
+|-
+| [http://espanol.ninds.nih.gov NINDS: P&aacute;gina Principal]
+| [http://espanol.ninds.nih.gov/trastornos/xml_encefalomielitis_aguda_diseminada.xml html]
+|-
+| [http://www.nyu.edu New York University]
+| [http://www.nyu.edu/library/bobst/research/fales/coll_mss/angel.html html]
+|-
+| [http://jira.nyu.edu New York University]
+| [https://jira.nyu.edu/jira/secure/attachment/10738/MC104.04.EAD.xml xml]
+|-
+| [http://library.ndsu.edu North Dakota Extension Homemakers Council. Memories of North Dakota Homemakers Oral History Project Photograph Collection]
+| [http://library.ndsu.edu/repository/handle/10365/1094 html]
+|-
+| [http://www.nmu.edu Northern Michigan University - Northern. Naturally. | Northern Michigan University]
+| [http://www.nmu.edu/archives/sites/DrupalArchives/files/UserFiles/MSS-121.html html]
+|-
+| [http://nwda-db.wsulibs.wsu.edu Northwest Digital Archives]
+| [http://nwda-db.wsulibs.wsu.edu/findaid/ark:/ html]
+|-
+| [http://archives.nd.edu Notre Dame Archives]
+| [http://archives.nd.edu/findaids/ead/xml/cis.xml xml]
+|-
+| [http://osulibrary.oregonstate.edu OSU Libraries | Oregon State University]
+| [http://osulibrary.oregonstate.edu/specialcollections/coll/atomic/catalogue/energy.html html]
+|-
+| [http://oac4.cdlib.org Online Archive of California]
+| [http://oac4.cdlib.org/findaid/ark:/13030/kt867nf6n0/ html]
+|-
+| [http://findaid.oac.cdlib.org Online Archive of California]
+| [http://findaid.oac.cdlib.org/findaid/ark:/13030/c8319t78/ html]
+|-
+| [http://oac.cdlib.org Online Archive of California]
+| [http://oac.cdlib.org/findaid/ark:/13030/kt6s20354r/ html]
+|-
+| [http://www.oac.cdlib.org Online Archive of California]
+| [http://www.oac.cdlib.org/findaid/ark:/13030/tf0779n4dg/ html]
+|-
+| [http://www.editgrid.com Online Spreadsheets - EditGrid]
+| [http://www.editgrid.com/bt/frm_2008/basel2_irb_v2.xml html]
+|-
+| [http://subversion.assembla.com Oops... 404 error | Assembla]
+| [http://subversion.assembla.com/svn/cAHbTIMtar3QfkeJe5afGb/99.%20eclipse/target/war/work/webapp-cache.xml html]
+|-
+| [http://www.obhistorycenter.ncdcr.gov Outer Banks History Center Home Page]
+| [http://www.obhistorycenter.ncdcr.gov/ead/obhc_lifesaving_stations_outer_banks.xml xml]
+|-
+| [http://plg.uwaterloo.ca PLG Home Page]
+| [http://plg.uwaterloo.ca/~cwstromm/lit/pre-class/xml/68000-00000.xml_y.xml html]
+|-
+| [http://www.library.upenn.edu Penn Libraries]
+| [http://www.library.upenn.edu/collections/rbm/ead/cajs/ARC%20MS%2036.xml xml]
+|-
+| [http://library.providence.edu Phillips Memorial Library at Providence College]
+| [http://library.providence.edu/spcol/fa/xml/rppc_jlmoore.xml xml]
+|-
+| [http://www.pcanet.org Presbyterian Church in America]
+| [http://www.pcanet.org/history/findingaids/wpm/index.html html]
+|-
+| [http://library.princeton.edu Princeton University Library]
+| [http://library.princeton.edu/404.html html]
+|-
+| [http://libweb5.princeton.edu Princeton University Library]
+| [http://libweb5.princeton.edu/masc/MascSearch.asp html]
+|-
+| [http://findingaids.princeton.edu Princeton University Library Finding Aids]
+| [http://findingaids.princeton.edu/collections/AC313 html]
+|-
+| [http://library.rit.edu RIT Libraries]
+| [http://library.rit.edu/findingaids/html/RITArc.0172.html html]
+|-
+| [http://www.rihs.org Rhode Island Historical Society]
+| [http://www.rihs.org/mssinv/Mss483sg12.htm html]
+|-
+| [http://news.providencejournal.com Rhode Island, Providence, news, sports, entertainment, ads | projo.com | The Providence Journal]
+| [http://news.providencejournal.com/breaking-news/2012/10/police-arrest-two-men-after-finding-man-on-roof-of-seal-house-at-roger-will.xml html]
+|-
+| [http://www.library.uni.edu Rod Library | University of Northern Iowa]
+| [https://www.library.uni.edu/collections/special-collections/manuscript-collections-list/iowa-mathematics-science-consortium html]
+|-
+| [http://www.scpronet.com SC Progressive Network Home]
+| [http://www.scpronet.com/groups.php html]
+|-
+| [http://webradio.siue.edu SIUE Web Radio - Southern Illinois University Edwardsville]
+| [http://webradio.siue.edu/iss/opt-faq.xml html]
+|-
+| [http://etext.ku.edu Search KU Finding Aids]
+| [http://etext.ku.edu/view?docId=ksrlead/ksrl.kc.hackenbergrobert.xml html]
+|-
+| [http://archives.lib.siu.edu Southern Illinois University Special Collections Research Center]
+| [http://archives.lib.siu.edu/index.php?p=collections/controlcard&id=2538 html]
+|-
+| [http://www.archives.ncdcr.gov State Archives of North Carolina]
+| [http://www.archives.ncdcr.gov/FindingAids/ead/eadxml/phc_hodges_luther_h_slides.xml xml]
+|-
+| [http://www.swarthmore.edu Swarthmore College Home]
+| [http://www.swarthmore.edu/library/friends/ead/5167majo.xml xml]
+|-
+| [http://library.syr.edu Syracuse University Library]
+| [http://library.syr.edu/digital/guides/ElasticLists-EAD/binv4/bin/data/contentitems_full.xml html] [http://library.syr.edu/digital/guides/ead/aaa_template.xml xml]
+|-
+| [http://www.tapor.uvic.ca TAPoR@UVic - Home]
+| [http://www.tapor.uvic.ca/~mholmes/teiJournal/sample_docs/paper_34_daneker_p5.xml html]
+|-
+| [http://thatcampwiki.pbworks.com THATCamp Wiki / FrontPage]
+| [http://thatcampwiki.pbworks.com/f/beinecke.bourbel.xml xml]
+|-
+| [http://www.twu.edu TWU Home - Texas Woman's University]
+| [http://www.twu.edu/library/womans html]
+|-
+| [http://trilogy.brynmawr.edu Test Page for the Apache HTTP Server on Red Hat Enterprise Linux]
+| [http://trilogy.brynmawr.edu/speccoll/bym/fredemm.xml xml]
+|-
+| [http://webapp1.dlib.indiana.edu Test Page for the Apache HTTP Server on Red Hat Enterprise Linux]
+| [http://webapp1.dlib.indiana.edu/findingaids/view?doc.view=entire_text&docId=ohrc021 html]
+|-
+| [http://www.aip.org The American Institute of Physics -- Physics Publications and Resources]
+| [http://www.aip.org/history/ead/browse.html#caltech%5Ffowler html] [http://www.aip.org/history/ead/19990074.xml xml]
+|-
+| [http://www.frick.org The Frick Collection]
+| [http://www.frick.org/archives/FindingAids/ImagesOfArtists.html html]
+|-
+| [http://www.gwu.edu The George Washington University]
+| [http://www.gwu.edu/gelman/spec/ead/ms2201.xml xml]
+|-
+| [http://www.litchfieldhistoricalsociety.org The Litchfield Historical Society]
+| [http://www.litchfieldhistoricalsociety.org/archon/?p=collections/findingaid&id=652&q= html]
+|-
+| [http://www.magnes.org The Magnes Collection of Jewish Art and Life]
+| [http://www.magnes.org/research/collection-services/ask-reference-questions html]
+|-
+| [http://www.lib.uchicago.edu The University of Chicago Library]
+| [http://www.lib.uchicago.edu/e/scrc/findingaids/view.php?eadid=ICU.SPCL.CRMS99 html]
+|-
+| [http://archives.library.illinois.edu The University of Illinois Archives: Bringing Illinois History to Life]
+| [http://archives.library.illinois.edu/archon/ html]
+|-
+| [http://www.unl.edu The University of Nebraska&ndash;Lincoln | Go Big | Undergraduate, Graduate and Law Degrees from a Research 1, Big Ten University]
+| [http://www.unl.edu/libr/libs/spec/faidsAZ.shtml html]
+|-
+| [http://www.ou.edu The University of Oklahoma]
+| [http://www.ou.edu/special/albertctr/archives/EdwardsInventory/edwards.htm html]
+|-
+| [http://doddcenter.uconn.edu Thomas J. Dodd Research Center &#8250; University of Connecticut]
+| [http://doddcenter.uconn.edu/asc/findaids/carpenter/MSS20100105.html html]
+|-
+| [http://dl.tufts.edu Tufts Digital Library]
+| [http://dl.tufts.edu/view_text.jsp?pid=tufts:UA069.001.DO.MS038 html]
+|-
+| [http://www.gpo.gov U.S. Government Printing Office Home Page]
+| [http://www.gpo.gov/fdsys/granule/FR-2010-12-28/2010-31962/mods.xml html]
+|-
+| [http://libraries.uta.edu UT Arlington Library]
+| [http://libraries.uta.edu/tejanovoices/interview.asp?CMASNo=054 html]
+|-
+| [http://findingaids.library.utc.edu UTC Special Collections Finding Aid Index]
+| [http://findingaids.library.utc.edu/Prescott.html html] [http://findingaids.library.utc.edu/ead/Witt.xml xml]
+|-
+| [http://cdi.uvm.edu UVM Libraries Center for Digital Initiatives]
+| [http://cdi.uvm.edu/findingaids/viewEAD.xql?pid=gardenway.ead.xml html]
+|-
+| [http://library.uvic.ca UVic Library]
+| [http://library.uvic.ca/spcoll/guides/sc413.html html]
+|-
+| [http://www.archives.upenn.edu University Archives and Records Center, University of Pennsylvania University Archives]
+| [http://www.archives.upenn.edu/faids/upt/upt50/isaacmand.html html]
+|-
+| [http://knowledgecenter.unr.edu University Libraries: Mathewson-IGT Knowledge Center]
+| [http://knowledgecenter.unr.edu/materials/specoll/mss/NC18.aspx html]
+|-
+| [http://www.library.illinois.edu University Library, University of Illinois]
+| [http://www.library.illinois.edu/rbx/archon/index.php?p=collections/controlcard&id=400 html]
+|-
+| [http://libinfo.uark.edu University of Arkansas Libraries]
+| [http://libinfo.uark.edu/SpecialCollections/findingaids/mc1230/ html]
+|-
+| [http://archon.lib.uh.edu University of Houston Libraries]
+| [http://archon.lib.uh.edu/index.php?p=collections/controlcard&id=142 html]
+|-
+| [http://www.leeds.ac.uk University of Leeds]
+| [http://www.leeds.ac.uk/library/spcoll/bcmsv/intro.html html]
+|-
+| [http://www.library.unh.edu University of New Hampshire Library]
+| [http://www.library.unh.edu/news/index.php/special-collections-news html]
+|-
+| [http://www.lib.unc.edu University of North Carolina at Chapel Hill Libraries - Home]
+| [http://www.lib.unc.edu/savine/invalid/EAD/savine_EAD.xml xml]
+|-
+| [http://library.sc.edu University of South Carolina Libraries]
+| [http://library.sc.edu/socar/mnscrpts/garvin.html html]
+|-
+| [http://www.lib.utexas.edu University of Texas Libraries]
+| [http://www.lib.utexas.edu/taro/utcah/00832.xml xml]
+|-
+| [http://www.lib.washington.edu University of Washington Libraries]
+| [http://www.lib.washington.edu/specialcollections/manuscripts/finding_aids/AFSC.html html]
+|-
+| [http://digital.lib.washington.edu University of Washington Libraries ResearchWorks Service]
+| [http://digital.lib.washington.edu/findingaids/view?docId=MiyamotoSFrank24851.xml html]
+|-
+| [http://www.pacific.edu University of the Pacific - Stockton, Sacramento and San Francisco]
+| [http://www.pacific.edu/Library.html html]
+|-
+| [http://history.utah.gov Utah State History]
+| [http://history.utah.gov/findaids/B00129/B0129ff.xml xml]
+|-
+| [http://virtualcardcatalog.filsonhistorical.org Virtual Card Catalog Website]
+| [http://virtualcardcatalog.filsonhistorical.org/ead/wallfamily_003z3FA.xml xml]
+|-
+| [http://ntserver1.wsulibs.wsu.edu WSU Libraries: Search WSU WorldCat and Beyond]
+| [http://ntserver1.wsulibs.wsu.edu/holland/masc/finders/cg649.htm html]
+|-
+| [http://wakespace.lib.wfu.edu WakeSpace - A digital archive of Wake Forest University: WakeSpace Faculty Scholarship]
+| [http://wakespace.lib.wfu.edu/jspui/bitstream/10339/28108/1/MS339-ead.xml xml]
+|-
+| [http://special.lib.umn.edu Welcome Visitors | University of Minnesota Libraries]
+| [http://special.lib.umn.edu/findaid/html/ymca/yymn.phtml html] [http://special.lib.umn.edu/findaid/xml/uarc00261.xml xml]
+|-
+| [http://www.library.appstate.edu Welcome to Belk Library &amp; Information Commons | Belk Library and Information Commons]
+| [http://www.library.appstate.edu/appcoll/ead2002/422derrick.xml/ead2html html]
+|-
+| [http://www.lancasterhistory.org Welcome to LancasterHistory.org]
+| [http://www.lancasterhistory.org/index.php?option=com_content&view=article&id=766:manufacturers-association-of-lancaster-collection-1858-1976&catid=37:manuscript-groups&Itemid=57 html]
+|-
+| [http://www.stbrn.ac.uk Welcome to Saint Brendan's Sixth Form College, Bristol]
+| [http://www.stbrn.ac.uk/computing/summer_task_ead_2012.xml html]
+|-
+| [http://www.nypl.org Welcome to The New York Public Library]
+| [http://www.nypl.org/research/chss/lhg/xml/nygbfrost.xml html]
+|-
+| [http://www.library.unlv.edu Welcome to University Libraries | UNLV University Libraries]
+| [https://www.library.unlv.edu/speccol/ead/T26_FortMohaveSchool.xml xml]
+|-
+| [http://www.wesleyan.edu Welcome to Wesleyan University — Middletown, Connecticut]
+| [http://www.wesleyan.edu/library/schome/FAs/mu2000-27.xml xml]
+|-
+| [http://web.warwick.ac.uk Welcome to the University of Warwick]
+| [http://web.warwick.ac.uk/services/library/mrc/ead/259NB.htm html]
+|-
+| [http://archives.library.wcsu.edu Western Connecticut State University Archives and Special Collections | Documenting WestConn and its surrounding area]
+| [http://archives.library.wcsu.edu/findingaids/academicPrograms.xml xml]
+|-
+| [http://www.wisconsinhistory.org Wisconsin Historical Society]
+| [http://www.wisconsinhistory.org/turningpoints/search.asp?id=1565 html]
+|-
+| [http://ead.lib.virginia.edu XTF: Search Form]
+| [http://ead.lib.virginia.edu/vivaxtf/view?docId=uva-sc/viu00825.xml;query=; html] [http://ead.lib.virginia.edu/vivaead/published/odu/vino00011.xml xml]
+|-
+| [http://acumen.lib.ua.edu acumen | Search]
+| [http://acumen.lib.ua.edu/u0003_0000580.ead.xml xml]
+|-
+| [http://dplbibdiv.pbworks.com dplbibdiv / FrontPage]
+| [http://dplbibdiv.pbworks.com/f/bhc04028.html html]
+|-
+| [http://www.ead.pucv.cl e[ad] Escuela de Arquitectura y Diseño, Pontificia Universidad Católica de Valparaíso]
+| [http://www.ead.pucv.cl/sitemap.xml html]
+|-
+| [http://dplopac.detroitpubliclibrary.org iBistro]
+| [http://dplopac.detroitpubliclibrary.org/WebCat_Images/English/Other/Findingaids/web/bhc02157.xml xml]
+|-
+| [http://khanshakil.com shakil khan]
+| [http://khanshakil.com/picture/gallery.xml html]
+|-
+| [http://svn.matienzo.org svn.matienzo.org]
+| [http://svn.matienzo.org/public/aip/old/phfaws/ead_urls.sample.xml html]
 |}
